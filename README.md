@@ -1,16 +1,16 @@
-## Hi there 👋
+### V. Sai Abhiram
 
-<!--
-**abhiramvissa/abhiramvissa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software developer in Hyderabad working on healthcare technology systems, and an RLHF consultant at Scale AI (Outlier) designing and reviewing evaluation tasks for AI agents. I am interested in one question: whether a number a model produces can be believed, and what it takes to find out.
 
-Here are some ideas to get you started:
+**Research**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [clean-orbits-kepler](https://github.com/abhiramvissa/clean-orbits-kepler) — *Clean Orbits Reward Kepler: Noise and Interventions Shape the World Model a Transformer Learns* (2026, preprint). 75 small transformers, held-out probes, a public decision log, and the predictions that failed.
+- Two published papers (2026) on predictive modelling and on spurious correlation under distribution shift, using Delhi air-quality data.
+
+**Writing**
+
+- [abhiramvissa.github.io](https://abhiramvissa.github.io) — notes on machine learning evaluation and the papers behind it.
+
+**Contact**
+
+[LinkedIn](https://www.linkedin.com/in/abhiramvissa/) · abhiramvissa@gmail.com
